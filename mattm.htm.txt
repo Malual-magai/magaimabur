@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>matt and sons</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>PAN Mabur auto moblie</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#cars">Cars & Prices</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section id="about">
+  <div class="container">
+    <h2>About Us</h2>
+    <p>name is matt malual and i am the CEO of PAN Mabur auto moblie so you all are wwlcome .</p>
+  </div>
+</section>
+
+<section id="cars">
+  <div class="container">
+    <h2>Cars & Their Prices (2025 Models)</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Model</th>
+          <th>Type</th>
+          <th>Starting MSRP (USD)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Honda Civic Hybrid</td>
+          <td>Compact Sedan</td>
+          <td>$28,950</td>
+        </tr>
+        <tr>
+          <td>Toyota Corolla LE</td>
+          <td>Compact Sedan</td>
+          <td>$22,175</td>
+        </tr>
+        <tr>
+          <td>Nissan Versa S</td>
+          <td>Subcompact Sedan</td>
+          <td>$21,130</td>
+        </tr>
+        <tr>
+          <td>Nissan Kicks</td>
+          <td>Subcompact SUV</td>
+          <td>$21,830</td>
+        </tr>
+        <tr>
+          <td>Subaru Forester</td>
+          <td>Compact SUV</td>
+          <td>$29,995</td>
+        </tr>
+        <tr>
+          <td>INFINITI QX80</td>
+          <td>Full‑size SUV</td>
+          <td>$82,450</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>Prices are approximate starting MSRPs for the 2025 U.S. models :contentReference[oaicite:2]{index=2}.</p>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <h2>Contact Me</h2>
+    <p>Email: mattmalualm@gmail.com</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2025 PAN Mabur</p>
+  </div>
+</footer>
+
+</body>
+</html>

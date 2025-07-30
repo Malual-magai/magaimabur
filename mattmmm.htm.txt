@@ -1,0 +1,26 @@
+﻿* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: Arial, sans-serif; color: #333; line-height: 1.6; }
+
+.container { width: 90%; max-width: 1000px; margin: auto; padding: 40px 0; }
+
+header { background: #0073e6; color: white; padding: 20px 0; text-align: center; }
+header nav ul { list-style: none; display: flex; justify-content: center; gap: 20px; }
+header nav a { color: white; text-decoration: none; font-weight: bold; }
+header nav a:hover { text-decoration: underline; }
+
+section { padding: 60px 0; text-align: center; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+table th { background-color: #f2f2f2; }
+tbody tr:nth-child(even) { background-color: #f9f9f9; }
+
+footer { background: #333; color: white; text-align: center; padding: 15px 0; }
